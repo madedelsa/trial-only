@@ -6,4 +6,3 @@ RENCANA KONTEN GOLDEN
   + Belajar java untuk membuat tugas UML
   + Fundamental Data Structure
 - PHP Framework
-- HTML
