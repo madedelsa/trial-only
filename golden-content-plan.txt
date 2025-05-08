@@ -2,6 +2,7 @@ RENCANA KONTEN GOLDEN
 
 - Java
   + Belajar java untuk project praktikum
+    > membuat database dulu
   + Belajar java untuk membuat tugas UML
   + Fundamental Data Structure
 - PHP Framework
