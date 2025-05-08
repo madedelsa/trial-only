@@ -1,0 +1,7 @@
+RENCANA KONTEN GOLDEN
+
+- Java
+  + Belajar java untuk project praktikum
+  + Belajar java untuk membuat tugas UML
+- PHP Framework
+- HTML
